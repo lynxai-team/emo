@@ -1,6 +1,6 @@
 module github.com/lynxai-team/emo
 
-go 1.26.0
+go 1.26.3
 
 require (
 	github.com/acmacalister/skittles v0.0.0-20160609003031-7423546701e1
